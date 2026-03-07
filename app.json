@@ -1,0 +1,7 @@
+{
+  "name": "expensetrackproject",
+  "displayName": "ExpenseTrackProject",
+  "android": {
+    "package": "com.expensetrackproject"
+  }
+}
